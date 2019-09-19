@@ -1,0 +1,35 @@
+D:\Tugas Kuliah\PROYEK 1\PROYEK 1\PROYEK 1\bin\Debug\PROYEK 1.exe
+D:\Tugas Kuliah\PROYEK 1\PROYEK 1\PROYEK 1\bin\Debug\PROYEK 1.pdb
+D:\Tugas Kuliah\PROYEK 1\PROYEK 1\PROYEK 1\bin\Debug\PROYEK 1.xml
+D:\Tugas Kuliah\PROYEK 1\PROYEK 1\PROYEK 1\obj\x86\Debug\PROYEK_1.Form1.resources
+D:\Tugas Kuliah\PROYEK 1\PROYEK 1\PROYEK 1\obj\x86\Debug\PROYEK_1.Form2.resources
+D:\Tugas Kuliah\PROYEK 1\PROYEK 1\PROYEK 1\obj\x86\Debug\PROYEK_1.Form3.resources
+D:\Tugas Kuliah\PROYEK 1\PROYEK 1\PROYEK 1\obj\x86\Debug\PROYEK_1.Resources.resources
+D:\Tugas Kuliah\PROYEK 1\PROYEK 1\PROYEK 1\obj\x86\Debug\PROYEK 1.vbproj.GenerateResource.Cache
+D:\Tugas Kuliah\PROYEK 1\PROYEK 1\PROYEK 1\obj\x86\Debug\PROYEK 1.exe
+D:\Tugas Kuliah\PROYEK 1\PROYEK 1\PROYEK 1\obj\x86\Debug\PROYEK 1.xml
+D:\Tugas Kuliah\PROYEK 1\PROYEK 1\PROYEK 1\obj\x86\Debug\PROYEK 1.pdb
+D:\Tugas Kuliah\PROYEK 1\PROYEK 1\PROYEK 1\obj\x86\Debug\PROYEK_1.Form4.resources
+D:\Tugas Kuliah\PROYEK 1\PROYEK 1\PROYEK 1\bin\Debug\PROYEK 1.exe.config
+D:\Tugas Kuliah\PROYEK 1\PROYEK 1\PROYEK 1\obj\x86\Debug\PROYEK_1.Form5.resources
+D:\PROYEK 1\PROYEK 1\bin\Debug\PROYEK 1.exe.config
+D:\PROYEK 1\PROYEK 1\obj\x86\Debug\PROYEK 1.exe
+D:\PROYEK 1\PROYEK 1\obj\x86\Debug\PROYEK 1.xml
+D:\PROYEK 1\PROYEK 1\obj\x86\Debug\PROYEK 1.pdb
+D:\PROYEK 1\PROYEK 1\bin\Debug\PROYEK 1.exe
+D:\PROYEK 1\PROYEK 1\bin\Debug\PROYEK 1.pdb
+D:\PROYEK 1\PROYEK 1\bin\Debug\PROYEK 1.xml
+D:\PROYEK 1\PROYEK 1\obj\x86\Debug\PROYEK_1.Form2.resources
+D:\PROYEK 1\PROYEK 1\obj\x86\Debug\PROYEK_1.Form3.resources
+D:\PROYEK 1\PROYEK 1\obj\x86\Debug\PROYEK_1.Form4.resources
+D:\PROYEK 1\PROYEK 1\obj\x86\Debug\PROYEK_1.Form5.resources
+D:\PROYEK 1\PROYEK 1\obj\x86\Debug\PROYEK_1.Resources.resources
+D:\PROYEK 1\PROYEK 1\obj\x86\Debug\PROYEK 1.vbproj.GenerateResource.Cache
+D:\PROYEK 1\PROYEK 1\obj\x86\Debug\PROYEK_1.Form6.resources
+D:\PROYEK 1\PROYEK 1\obj\x86\Debug\PROYEK 1.vbprojResolveAssemblyReference.cache
+D:\PROYEK 1\PROYEK 1\obj\x86\Debug\PROYEK_1.Form8.resources
+D:\PROYEK 1\PROYEK 1\obj\x86\Debug\PROYEK_1.Form9.resources
+D:\PROYEK 1\PROYEK 1\obj\x86\Debug\PROYEK_1.Form10.resources
+D:\PROYEK 1\PROYEK 1\obj\x86\Debug\PROYEK_1.Form11.resources
+D:\PROYEK 1\PROYEK 1\obj\x86\Debug\PROYEK_1.Form7.resources
+D:\PROYEK 1\PROYEK 1\obj\x86\Debug\PROYEK_1.Form1.resources
